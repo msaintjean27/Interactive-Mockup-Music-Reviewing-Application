@@ -19,6 +19,11 @@ This interactive prototype demonstrates:
 - **HTML** – Embedding the Figma prototype
 - **GitHub Pages** – Hosting the live demo
 
+## Screenshots
+
+### Home Page
+![Home Page Screenshot](HomePage.png)
+
 ## How to View Locally
 1. Clone this repository:
    ```bash
