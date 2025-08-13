@@ -30,10 +30,6 @@ This interactive prototype demonstrates:
 |-----------|--------------|-------------|
 | ![Home Page Screenshot](HomePage.png) | ![Profile Page Screenshot](ProfilePage.png) | ![Artist Page Screenshot](ArtistPage.png) |
 
-
-### Home Page
-![Home Page Screenshot](HomePage.png)
-
 ## How to View Locally
 1. Clone this repository:
    ```bash
