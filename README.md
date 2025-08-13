@@ -26,6 +26,11 @@ This interactive prototype demonstrates:
 
 ## Screenshots
 
+| Home Page | Profile Page | Artist Page |
+|-----------|--------------|-------------|
+| ![Home Page Screenshot](HomePage.png) | ![Profile Page Screenshot](ProfilePage.png) | ![Artist Page Screenshot](ArtistPage.png) |
+
+
 ### Home Page
 ![Home Page Screenshot](HomePage.png)
 
