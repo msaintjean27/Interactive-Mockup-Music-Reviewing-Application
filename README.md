@@ -1,5 +1,10 @@
 # Interactive Mockup Music Reviewing Application
 
+![Figma](https://img.shields.io/badge/Design-Figma-orange?logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/Code-HTML-blue?logo=html5&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-brightgreen?logo=github&logoColor=white)
+
+
 This repository contains an embedded collaborative Figma interactive prototype for a music reviewing application.  
 This was a **group project**, and my contributions included creating the **Home Page**, **Profile Page**, **Artist Pages**, and **Artist Album Pages**, as well as establishing the **interactive links** between each of these pages.
 
