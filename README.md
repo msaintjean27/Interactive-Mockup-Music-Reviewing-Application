@@ -8,7 +8,7 @@
 This repository contains an embedded collaborative Figma interactive prototype for a music reviewing application.  
 This was a **group project**, and my contributions included creating the **Home Page**, **Profile Page**, **Artist Pages**, and **Artist Album Pages**, as well as establishing the **interactive links** between each of these pages.
 
-🔗 **Live Demo:** [View on GitHub Pages](https://msaintjean27.github.io/Interactive-Mockup-Music-Reviewing-Application/)
+🔗 **Live Demo:** [View on GitHub Pages](https://msaintjean27.github.io/InteractiveMockupMusicReviewingApplication/)
 
 ---
 
